@@ -1,0 +1,9 @@
+ Subtypes must be substitutable for their base types.
+
+
+- Subclasses should be substitutable for their base classes.
+
+- Functionality in the base class should be usable by all subclasses.
+
+- If a subclass can’t use the base class functionality, 
++ it shouldn’t be in the base class.

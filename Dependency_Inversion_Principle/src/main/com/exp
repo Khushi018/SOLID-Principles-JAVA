@@ -1,0 +1,13 @@
+Dependency Inversion Principle (DIP)
+
+- Depend on abstractions, not concrete classes.
+
+- Use abstractions to decouple dependencies 
++ between parts of the system.
+
+- Avoid direct calls between code units
++ use interfaces or abstractions.
+Abstraction over Concretion
+
+By depending on abstractions, modules become more flexible and interchangeable,
+ allowing easier substitution of implementations without requiring changes in higher-level modules.

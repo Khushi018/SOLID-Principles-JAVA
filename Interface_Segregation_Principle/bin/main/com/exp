@@ -1,0 +1,5 @@
+- Provide multiple specific interfaces rather
++ than a few general-purpose ones.
+
+- Clients shouldn’t depend on methods they don’t use.
+

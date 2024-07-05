@@ -1,0 +1,7 @@
+Each unit of code should have only one responsibility
+
+
+A unit can be a class, interface, function, component
+
+
+to reduce tight coupling

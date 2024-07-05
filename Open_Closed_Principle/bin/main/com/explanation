@@ -1,0 +1,9 @@
+- Units of code should be open for extension 
++ but closed for modification.
+
+- Extend functionality by adding new code, 
++ not modifying existing code.
+
+ - open extension means new class(create) and extends existing code 
+ closed for modify means - do not add any extra functionality to existing class if required
+ instaed create new class and extends existing
