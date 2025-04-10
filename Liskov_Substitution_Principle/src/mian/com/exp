@@ -1,6 +1,6 @@
- Subtypes must be substitutable for their base types.
+.../////////.........parent class functionality should  usable by all child classes....////..........
 
-
+- Subtypes must be substitutable for their base types.
 - Subclasses should be substitutable for their base classes.
 
 - Functionality in the base class should be usable by all subclasses.
